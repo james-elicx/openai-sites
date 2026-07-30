@@ -1,0 +1,31 @@
+packages/create-sites/templates/vinext/tsconfig.json
+  s_cc3cfc56f1327e::t_0be43b0c3b4425 12
+packages/create-sites/test/create-sites.test.ts
+  s_cc3cfc56f1327e::t_4599c7197030f0 121,132-135
+.changeset/remove-vinext-next-dependency.md
+  s_9e7a6aa29d3f70::t_d645aa8ff2941f 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "54aa20827ca289be50069f4bb5a2884b07ad9444",
+  "prompts": {},
+  "sessions": {
+    "s_9e7a6aa29d3f70": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb55a-ebbb-74d2-ade4-96977223306f",
+        "model": "unknown"
+      },
+      "human_author": "James <james@eli.cx>"
+    },
+    "s_cc3cfc56f1327e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb546-112b-7233-aa09-7818b6092af7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "James <james@eli.cx>"
+    }
+  }
+}
