@@ -1,0 +1,21 @@
+packages/create-sites/templates/vinext/vite.config.ts
+  s_cc3cfc56f1327e::t_d211b62d961899 16
+packages/create-sites/test/create-sites.test.ts
+  s_cc3cfc56f1327e::t_a4fd8250787c44 133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6f7b336bd68faf9766f72f1539d9c23b83fcd4b6",
+  "prompts": {},
+  "sessions": {
+    "s_cc3cfc56f1327e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb546-112b-7233-aa09-7818b6092af7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "James <james@eli.cx>"
+    }
+  }
+}
