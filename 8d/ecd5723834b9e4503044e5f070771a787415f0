@@ -1,0 +1,19 @@
+packages/create-sites/test/create-sites.test.ts
+  s_679ae67c146c9c::t_907cc6fdab95ce 124-131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8decd5723834b9e4503044e5f070771a787415f0",
+  "prompts": {},
+  "sessions": {
+    "s_679ae67c146c9c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb584-715e-70d2-b357-a96a6703a23b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "James <james@eli.cx>"
+    }
+  }
+}
