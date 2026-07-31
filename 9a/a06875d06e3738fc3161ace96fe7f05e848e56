@@ -1,0 +1,31 @@
+packages/create-sites/templates/vinext/vite.config.ts
+  s_cc3cfc56f1327e::t_0c14014b8ec448 16
+packages/create-sites/test/create-sites.test.ts
+  s_cc3cfc56f1327e::t_cc2d728589a849 133
+.changeset/use-vinext-fetch-handler.md
+  s_f3056fe3bc9c07::t_aa7f4d55ccb4ab 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9aa06875d06e3738fc3161ace96fe7f05e848e56",
+  "prompts": {},
+  "sessions": {
+    "s_cc3cfc56f1327e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb546-112b-7233-aa09-7818b6092af7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "James <james@eli.cx>"
+    },
+    "s_f3056fe3bc9c07": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb57c-205e-7591-ba7f-3004ad279574",
+        "model": "unknown"
+      },
+      "human_author": "James <james@eli.cx>"
+    }
+  }
+}
